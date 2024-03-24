@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: obt_fact_sales
+    description: The fact sales table combined with all of its outrigger dimensions into one bit table.
